@@ -1,20 +1,14 @@
 package oops;
 
-public class loop_hello {
+public class loop_hello_reverse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String word = "HELLO";
-		for (char i=1; i <= word.length(); i++) {
+		for (int  i = word.length(); i >= 1;i--) {
 			System.out.println(word.substring(0,i));
-			
+		
 		}
-
 	}
 
 }
-//H
-//HE
-//HEL
-//HELL
-//HELLO
