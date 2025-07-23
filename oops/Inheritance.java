@@ -10,7 +10,6 @@ class sci extends clc{
 	}
 }
 
-
 public class Inheritance {
 
 	public static void main(String[] args) {

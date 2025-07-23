@@ -6,7 +6,7 @@ public class Multiple_catch_16 {
 		// TODO Auto-generated method stub
 		int arr[] = new int [5];
 		try { 
-			arr [5] = 10;
+			arr [5] = 3;
 			System.out.println("Hello ");
 		}catch (ArithmeticException e) {
 			System.out.println("Error " + e);

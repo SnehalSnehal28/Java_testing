@@ -6,7 +6,7 @@ class Testing{
 	int k;
 	
 	Testing(){
-		System.out.println("Constructor method ");
+		System.out.println("Default Constructor method ");
 	}
 	Testing(int a,int b){
 		x=a;
@@ -31,7 +31,8 @@ public class parameterizedobj {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Testing t =new Testing(10,20);
+		Testing t = new Testing();
+		Testing t1 =new Testing(10,20);
 		Testing t2=new Testing("Java",20);
 
 	}

@@ -1,5 +1,4 @@
 package Exception;
-
 public class Try_catch_block {
 
 		public static void main(String[] args) {
@@ -11,7 +10,6 @@ public class Try_catch_block {
 			}
 			System.out.println("Rest of code...");	
 			}
-
 		}
 
 	

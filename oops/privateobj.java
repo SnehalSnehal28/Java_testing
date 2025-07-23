@@ -14,8 +14,6 @@ class test1{
 	public void setY(int y) {
 		this.y = y;
 	}
-	
-
  void disp() {
 	 System.out.println("X:"+x);
 	 System.out.println("Y:"+y);

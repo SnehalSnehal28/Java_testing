@@ -28,11 +28,6 @@ public class basic_calc {
 			break;
 		default:
 			System.out.println("Wrong");
-			
-			
-			
-			
 		}
 		}
-
 }

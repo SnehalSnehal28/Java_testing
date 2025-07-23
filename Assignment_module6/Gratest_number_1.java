@@ -24,8 +24,6 @@ public class Gratest_number_1 {
 		}
 		else {
 			System.out.println("Gretest number is: " + num3);
-		}
-		
+		}	
 	}
-
 }

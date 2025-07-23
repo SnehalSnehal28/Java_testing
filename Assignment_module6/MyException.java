@@ -9,7 +9,7 @@ class MyException extends Exception {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int acBalance = 2000;
-		int withdrawAmount = 500;
+		int withdrawAmount = 2500;
 		try {
 			if (withdrawAmount > acBalance) {
 				int store = withdrawAmount - acBalance;

@@ -7,7 +7,7 @@ public class Ten_Natural_Numbers_2 {
 		System.out.println("Natural number is: ");
 		int num =1;
 		while (num <= 10) {
-			System.out.println(num);
+			System.out.println( num );
 			num++;
 		}
 		

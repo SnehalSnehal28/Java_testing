@@ -4,7 +4,7 @@ public class Simple_interest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		float p=3320;
+		float p=1500;
 		float r=4;
 		float n=2;
 		System.out.println(" Principle amount: " + p);

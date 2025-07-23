@@ -11,7 +11,7 @@ class SBI extends RBI{
 	}
 	
 }
-class PNB {
+class PNB extends SBI{
 	void rateOfInt() {
 		System.out.println("PNB gave 7%" );
 	}
